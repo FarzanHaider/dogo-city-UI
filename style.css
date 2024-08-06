@@ -1,0 +1,22 @@
+* {
+    list-style-type: none;
+}
+
+#divo {
+    height: 40vh;
+    background-image: linear-gradient(rgba(252, 195, 2, 0.8), rgba(252, 195, 2, 0.8)), url(img/team-image.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: center;
+}
+#text{
+   
+    text-align: right;
+}
+#icon{
+    text-align: right;
+}
+#bar{
+    display: flex;
+}
